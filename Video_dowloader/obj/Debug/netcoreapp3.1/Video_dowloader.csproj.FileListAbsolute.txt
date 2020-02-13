@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\Video_dowloader\Video_dowloader\obj\Debug\netcoreapp3.1\Video_dowloader.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Video_dowloader\Video_dowloader\obj\Debug\netcoreapp3.1\Video_dowloader.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Video_dowloader\Video_dowloader\obj\Debug\netcoreapp3.1\Video_dowloader.AssemblyInfo.cs
+C:\Users\PC\source\repos\Video_dowloader\Video_dowloader\bin\Debug\netcoreapp3.1\Video_dowloader.exe
+C:\Users\PC\source\repos\Video_dowloader\Video_dowloader\bin\Debug\netcoreapp3.1\Video_dowloader.deps.json
+C:\Users\PC\source\repos\Video_dowloader\Video_dowloader\bin\Debug\netcoreapp3.1\Video_dowloader.runtimeconfig.json
+C:\Users\PC\source\repos\Video_dowloader\Video_dowloader\bin\Debug\netcoreapp3.1\Video_dowloader.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Video_dowloader\Video_dowloader\bin\Debug\netcoreapp3.1\Video_dowloader.dll
+C:\Users\PC\source\repos\Video_dowloader\Video_dowloader\bin\Debug\netcoreapp3.1\Video_dowloader.pdb
+C:\Users\PC\source\repos\Video_dowloader\Video_dowloader\obj\Debug\netcoreapp3.1\Video_dowloader.dll
+C:\Users\PC\source\repos\Video_dowloader\Video_dowloader\obj\Debug\netcoreapp3.1\Video_dowloader.pdb
